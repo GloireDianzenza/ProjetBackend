@@ -1,0 +1,24 @@
+{
+  "name": "projet_myapp",
+  "version": "1.0.0",
+  "description": "desc",
+  "main": "script.js",
+  "scripts": {
+    "test": "console.log('hello world')",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GloireDianzenza/ProjetBackend.git"
+  },
+  "author": "GloireDianzenza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GloireDianzenza/ProjetBackend/issues"
+  },
+  "homepage": "https://github.com/GloireDianzenza/ProjetBackend#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
